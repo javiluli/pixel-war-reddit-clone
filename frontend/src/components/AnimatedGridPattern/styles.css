@@ -1,0 +1,12 @@
+.animated-grid-pattern {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+  fill: #9ca3af;
+}
+
+.overflow-visible {
+  overflow: visible;
+}

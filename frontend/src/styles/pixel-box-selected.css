@@ -1,0 +1,4 @@
+.pixel-box-selected {
+  box-shadow: 0 0 0 5px hsl(0, 0%, 75%);
+  z-index: 1000;
+}
